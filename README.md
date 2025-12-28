@@ -1,6 +1,6 @@
 # Aror University Canteen Stock Management System
 
-A desktop-based stock and sales management system developed for **Aror University Canteen**.  
+A desktop-based Inventory stock and sales management system developed for **Aror University Canteen**.  
 The system helps manage products, monitor stock levels, handle daily sales, and support staff operations through a simple and user-friendly interface.
 
 ---
