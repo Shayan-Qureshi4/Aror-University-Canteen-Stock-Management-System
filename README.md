@@ -52,13 +52,10 @@ The application is built using **Java Swing** with **MySQL** as the backend data
 
 ## 🔐 Default Login Credentials
 
-**Manager**
-- Username: `manager@aror`
-- Password: `0987`
-
-**Staff**
-- Username: `staff@aror`
-- Password: `1234`
+| Role    | Username        | Password |
+|-------- |----------------|----------|
+| Manager | manager@aror   | 0987     |
+| Staff   | staff@aror     | 1234     |
 
 ---
 
@@ -84,14 +81,6 @@ ui/
 
 ---
 
-## 🔐 Login Credentials (Demo)
-
-| Role    | Username        | Password |
-|-------- |----------------|----------|
-| Manager | manager@aror   | 0987     |
-| Staff   | staff@aror     | 1234     |
-
----
 
 ## 🧩 Key Features
 
@@ -155,22 +144,30 @@ ui/
 
 ### Step 3: Configure Database Connection
 1. Open DBConnection.java and ensure the credentials match your MySQL setup:
+
 private static final String URL = "jdbc:mysql://localhost:3306/canteen_stock";
+
 private static final String USER = "root";
+
 private static final String PASSWORD = "";
 
 ---
 
 ### Step 4: Open Project in NetBeans
 Open NetBeans
+
 Click File → Open Project
+
 Select the project folder
+
 Ensure MySQL JDBC driver is added to Libraries
 
 ---
 
 ### Step 5: Run the Application
+
 Run LoginFrame.java
+
 Login using Manager or Staff credentials
 
 ---
