@@ -65,17 +65,29 @@ The application is built using **Java Swing** with **MySQL** as the backend data
 
 ## 🗂️ Project Structure
 ui/
+
 │ ├── LoginFrame.java
+
 │ ├── ManagerDashboard.java
+
 │ └── StaffDashboard.java
+
 │
+
 ├── services/
+
 │ └── ProductService.java
+
 │
+
 ├── database/
+
 │ └── DBConnection.java
+
 │
+
 └── models/
+
 └── Product.java
 
 
@@ -186,7 +198,9 @@ Login using Manager or Staff credentials
 
 **Shayan Qureshi**  
 Software & AI Enthusiast
+
 BS Artificial Intelligence – Semester 4 
+
 https://github.com/Shayan-Qureshi4
 
 ---
