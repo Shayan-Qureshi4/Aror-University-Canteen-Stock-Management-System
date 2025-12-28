@@ -189,7 +189,8 @@ Login using Manager or Staff credentials
 
 **Shayan Qureshi**  
 Software & AI Enthusiast
-BS Artificial Intelligence – Semester 4  
+BS Artificial Intelligence – Semester 4 
+https://github.com/Shayan-Qureshi4
 
 ---
 
