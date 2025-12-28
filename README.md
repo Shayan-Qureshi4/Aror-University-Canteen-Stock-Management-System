@@ -197,6 +197,7 @@ Login using Manager or Staff credentials
 ## 👨‍💻 Author
 
 **Shayan Qureshi**  
+
 Software & AI Enthusiast
 
 BS Artificial Intelligence – Semester 4 
